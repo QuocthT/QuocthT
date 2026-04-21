@@ -44,12 +44,6 @@ I am currently pursuing my M.S. in Data Science at Boston University, building s
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuocthT&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB" alt="Quoc's GitHub Stats" />
-</div>
-
 <br>
 
-📫 **Let's Connect:** [LinkedIn (Add your link here)](#) | ✉️ dave1601@bu.edu
+📫 **Let's Connect:** ✉️ dawidos1601@gmail.com
